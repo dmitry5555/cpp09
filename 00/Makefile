@@ -1,4 +1,4 @@
-NAME = cpp09
+NAME = btc
 
 CC = c++
 FLAGS = -std=c++98 -Wall -Wextra -Werror
